@@ -1,1 +1,2 @@
 # tooth-decay-detection-system
+Developed an AI-based system to detect tooth decay from dental images using machine learning and deep learning techniques. The system analyzes tooth images/X-rays to classify teeth as healthy or decayed, enabling early diagnosis and reducing human error. Implemented image preprocessing, model training, and performance evaluation to improve detection accuracy. This project demonstrates the application of AI in healthcare to support dentists in faster and more reliable decision-making.
